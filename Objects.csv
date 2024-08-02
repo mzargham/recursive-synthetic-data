@@ -1,0 +1,274 @@
+object_id,name,details
+1,Roberts rules of order,A manual of parliamentary procedure.
+2,least squares regression,A statistical method for estimating relationships.
+3,lasso regression,A regression method that uses shrinkage.
+4,deliberation,The process of discussion before making a decision.
+5,voting,A method for a group to make a decision.
+6,anomaly detection,Identifying rare items or events.
+7,sense-making,The process of giving meaning to experiences.
+8,a ballot box,A container used to collect ballots in an election.
+19,association rule learning,A method for finding relationships in data.
+10,rule-based decision-making,A method for making decisions based on rules.
+11,decision tree,A method for making decisions based on a tree-like model.
+12,random forest,A method for making decisions based on a collection of trees.
+13,neural network,A method for making decisions based on a network of nodes.
+9,policy making,The process of creating rules or guidelines.
+10,rough consensus and running code,A principle emphasizing practical implementation.
+11,pull request review,A process where code changes are reviewed.
+12,git hash,A unique identifier for a commit in Git.
+13,decision rule,A criterion for decision-making.
+14,recommendation engine,A system that suggests items based on analysis.
+15,collaborative filtering,A technique used in recommendation systems.
+16,clustering,A method for grouping similar items.
+17,classification,A method for categorizing items.
+18,regression,A method for estimating relationships.
+19, forum, A place for discussion.
+20, forum, A group of stakeholders.
+21, contribution guidelines, A set of rules for contributing to an open source project.
+22, code of conduct, A set of rules for behavior in a community.
+23, code review, A process where code changes are reviewed.
+24, pull request, A request to merge code changes.
+25, merge conflict, A problem that occurs when merging code changes.
+26, quorum, The minimum number of members needed to conduct business.
+27, soft consensus, A decision-making process that emphasizes agreement.
+28, hard consensus, A decision-making process that emphasizes unanimity.
+29, majority rule, A decision-making process that emphasizes the majority.
+30, plurality rule, A decision-making process that emphasizes the largest group.
+31, dictatorship, A decision-making process that emphasizes a single leader.
+32, beneficient dictator, A decision-making process that emphasizes a single leader acting in the best interest of the group.
+33, fork, A process where a project is copied to create a new project.
+34, fork, A schism in an open source community.
+35, soft fork, A process where a protocol is changes in a backwards-compatible way.
+36, hard fork, A process where a protocol is changes in a backwards-incompatible way.
+37, protocol, A set of rules for communication.
+38, consensus, A general agreement.
+39, consensus protocol, A set of rules for reaching agreement.
+40, peer-to-peer network, A network where nodes communicate directly.
+41, peer-to-peer protocol, A set of rules for communication in a peer-to-peer network.
+42, node, A device in a network.
+43, client, a piece of software that implements a protocol.
+44, edge, A connection between nodes in a network.
+45, operator, A person or organization that manages a process that others depend on.
+46, contributor, A person who contributes to a project.
+47, maintainer, A person who manages a project.
+48, leader, A person who guides a group.
+49, follower, A person who follows a leader.
+50, participant, A person who takes part in an activity.
+51, stakeholder, A person or group with an interest in a project.
+52, user, A person who uses a system.
+53, developer, A person who creates software.
+54, reviewer, A person who evaluates code changes.
+55, advisor, A person who provides guidance.
+56, moderator, A person who manages a discussion.
+57, facilitator, A person who guides a process.
+58, secretary, A person who records information.
+59, chair, A person who leads a meeting.
+60, voter, A person who participates in a voting based decision.
+61, schism, A split in a group.
+62, election, A process for selecting a leader.
+63, decision, A course of action determined after consideration.
+64, rule, A guideline for behavior.
+65, policy, A set of rules or guidelines.
+66, procedure, A series of steps to accomplish a task.
+67, method, A way of doing something.
+68, technique, A method for achieving a goal.
+69, algorithm, A step-by-step procedure for solving a problem.
+70, model, A representation of a system.
+71, system, A set of connected parts.
+72, component, A part of a system.
+73, element, A basic part of a system.
+74, attribute, A characteristic of an object.
+75, relationship, A connection between objects.
+76, architecture, A structure that describes the set of relationships that organize components into a system.
+77, conceptual architecture, A high-level description of a system in terms of abstract subsystems.
+78, functional architecture, A description of how components' depend on each other for inputs and outputs.
+79, logical architecture, A description of the rules and procedures' dependencies amongst components of a system.
+80, physical architecture, A description of the physical (implemented) components and connections in a system.
+81, affected stakeholder, A person or group impacted by a decision or system.
+82, decision maker, A person who makes a decision.
+83, decision-making process, A series of steps to reach a decision.
+84, decision-making method, A way of making decisions.
+85, acountable stakeholder, A person or group responsible for a decision or system.
+86, narrative model, A representation of a system as a story or demonstration.
+87, theoretical model, A representation of a system as a set of equations or rules.
+88, empirical model, A representation of a system based on data.
+89, simulation model, A representation of a system as a computer program.
+90, operational model, A representation of a system as a set of procedures or decision rules.
+91, contract, A legal agreement.
+92, agreement, A mutual understanding.
+93, negotiation, A process for reaching an agreement.
+94, mediation, A process for resolving a dispute.
+95, expectations, A set of anticipated outcomes.
+96, requirements, A set of conditions that must be met.
+97, constraints, A set of limitations.
+98, assumptions, A set of beliefs taken for granted.
+99, risks, A set of potential negative outcomes.
+100, rewards, A set of potential positive outcomes.
+101, incentives, A set of motivations.
+102, goals, A set of desired outcomes.
+103, objectives, A set of specific measurable outcomes.
+104, strategies, A set of plans for achieving goals.
+105, tactics, A set of actions for implementing strategies.
+106, operations, A set of activities for executing tactics.
+107, activities, A set of tasks.
+108, expectation management, A process for aligning anticipated outcomes with actual outcomes.
+110, trade-off, A situation where two desirable outcomes are in contention.
+111, optimization, A process for maximizing a desired outcome.
+112, satisficing, A process for achieving a satisfactory outcome.
+113, decision analysis, A process for making decisions based on analysis.
+114, decision support system, A system that aids in making decisions.
+115, decision-making tool, A tool that aids in making decisions.
+116, decision-making software, A software that aids in making decisions.
+117, sense-making tool, A tool that aids in making sense of information.
+118, sense-making software, A software that aids in making sense of information.
+119, sense-making system, A system that aids in making sense of information.
+120, information system, A system that manages information.
+121, knowledge system, A system that manages knowledge.
+122, decision system, A system that manages decisions.
+123, decision-making system, A system that aids in making decisions.
+124, control system, A system that regulates a process.
+125, feedback system, A system that provides information on a process.
+126, feedback control system, A system that regulates a process based on feedback.
+127, open-loop system, A system that operates without feedback.
+128, closed-loop system, A system that operates with feedback.
+129, system dynamics, A method for modeling systems.
+130, system dynamics model, A representation of a system using system dynamics.
+131, management science, A field that applies mathematical models to management problems.
+132, operations research, A field that applies analytical methods to decision-making.
+133, decision science, A field that studies decision-making.
+134, decision theory, A field that studies how decisions are made.
+135, decision analysis, A field that studies how decisions are analyzed.
+136, political science, A field that studies political systems.
+137, social science, A field that studies human behavior.
+138, computer science, A field that studies computation.
+139, information science, A field that studies information.
+140, library science, A field that studies how knowledge and information are organized; retreived and used.
+141, cognitive science, A field that studies representation and manipulation of knowledge.
+142, artificial intelligence, A field that studies sense-making and decision making in computer software.
+143, machine learning, A field that studies how computers draw inferences or form beliefs from data.
+144, cybernetics, A field that studies systems and control.
+145, governance, A system of decision-making and control.
+146, participatory governance, A system of decision-making that includes stakeholders.
+147, representative governance, A system of decision-making that includes elected officials.
+148, direct democracy, A system of decision-making where all participants vote on decisions.
+149, deliberative democracy, A system of decision-making where participants discuss and debate decisions.
+150, agent, A person who acts on behalf of another.
+151, principal, A person who authorizes another to act on their behalf.
+152, delegation, A process where authority is transferred.
+153, accountability, A process where authority is enforced.
+154, responsibility, A process where authority is carried out.
+155, authority, A right to make decisions.
+156, kmeans clustering, A method for grouping data points.
+157, vornoi partitioning, A method for partitioning a plane into regions.
+158, sum, A mathematical operation that adds numbers.
+159, counting, A mathematical operation that determines the number of items.
+160, average, A mathematical operation that calculates the mean.
+161, median, A mathematical operation that calculates the middle value.
+162, threshold, A value that separates two categories.
+163, outlier, A data point that is significantly different from others.
+164, anomaly, A data point that is rare or unexpected.
+165, discretion, The freedom to make decisions.
+166, autonomy, The freedom to act independently.
+167, supervision, The process of overseeing others.
+168, management, The process of coordinating resources.
+169, monitoring, The process of observing and recording.
+170, evaluation, The process of assessing performance.
+171, recursion, A method that calls itself.
+172, iteration, A method that repeats a process.
+173, feedback, Information about a process input to itself.
+174, feedforward, Information about a process input to another process.
+175, control, The process of regulating a system.
+176, regulation, The process of controlling a system.
+177, reflexivity, The process of reflecting on oneself.
+178, self-reference, The process of referring to oneself.
+179, self-regulation, The process of controlling oneself.
+180, self-organization, The process of organizing oneself.
+181, terms of service, A legal agreement for using a service.
+182, terms of use, A legal agreement for using a product.
+183, privacy policy, A legal agreement for handling personal information.
+184, data policy, A legal agreement for handling data.
+185, code of ethics, A set of rules for ethical behavior.
+186, code of conduct, A set of rules for behavior.
+187, code, A set of rules or guidelines.
+188, computer code, A set of instructions for a computer.
+189, source code, A set of instructions in a programming language.
+190, legal code, A set of laws.
+191, moral code, A set of ethical principles.
+192, ethical code, A set of rules for ethical behavior.
+193, professional code, A set of rules for professional behavior.
+194, constitution, A set of foundational rules on which other rules are built.
+195, bylaws, A set of rules for an organization.
+196, rules of order, A set of rules for conducting meetings.
+197, parliamentary procedure, A set of rules for conducting meetings.
+198, secondary rules, A set of rules for making rules.
+199, primary rules, A set of rules for conduct.
+200, algorithmic policy, A set of rules for decision-making implemented as computer code.
+201, dewey decimal system, A system for organizing library materials.
+202, library of congress classification, A system for organizing library materials.
+203, faceted classification, A system for organizing library materials.
+204, universal decimal classification, A system for organizing library materials.
+205, information retrieval, A process for finding information.
+206, information organization, A process for organizing information.
+207, knowledge organization, A process for organizing knowledge.
+208, knowledge representation, A process for representing knowledge.
+209, knowledge management, A process for managing knowledge.
+210, infrastructure, A set of resources that support a system.
+211, knowledge organization infrastructure, A set of resources that support organizing knowledge.
+212, address, A reference for localizing an object.
+214, content address, A location for finding information derived from its content.
+215, location address, A reference for finding an object based on its location.
+216, identifier, A unique reference for an object.
+217, metadata, Data that describes other data.
+218, data, Information in a form that can be processed.
+219, information, Data that has been processed.
+220, knowledge, Information that has been interpreted.
+221, wisdom, Knowledge that has been applied.
+222, hyperlink, A reference to another document.
+223, URL, A reference to a resource on the internet.
+224, URI, A reference to a resource on the internet.
+225, DOI, A reference to a document.
+226, ISBN, A reference to a book.
+227, ISSN, A reference to a periodical.
+228, OCLC number, A reference to a library item.
+229, call number, A reference to a library item.
+230, library card, A reference to a library patron.
+231, RID, a reference identifier.
+232, PID, a process identifier.
+233, PID controller, a control system that regulates a process using proportional; integral and derivative terms.
+234, OODA loop, a decision-making process that emphasizes observation; orientation; decision and action.
+235, PDCA cycle, a decision-making process that emphasizes plan; do; check and act.
+236, DMAIC cycle, a decision-making process that emphasizes define; measure; analyze; improve and control.
+237, PDSA cycle, a decision-making process that emphasizes plan; do; study and act.
+238, SWOT analysis, a decision-making process that emphasizes strengths; weaknesses; opportunities and threats.
+239, PEST analysis, a decision-making process that emphasizes political; economic; social and technological factors.
+240, STEEP analysis, a decision-making process that emphasizes social; technological; economic; environmental and political factors.
+241, VUCA analysis, a decision-making process that emphasizes volatility; uncertainty; complexity and ambiguity.
+242, decision-making framework, a set of rules for making decisions.
+243, active inference, a decision-making process that emphasizes minimizing surprise.
+244, Bayesian inference, a decision-making process that emphasizes updating beliefs based on evidence.
+245, backcasting, a decision-making process that emphasizes starting with a desired outcome and working backwards.
+246, forecasting, a decision-making process that emphasizes predicting future outcomes.
+247, scenario planning, a decision-making process that emphasizes creating multiple future scenarios.
+248, dynamic programming, a decision-making process that emphasizes breaking a problem into subproblems.
+249, committee, a group of people who make decisions.
+250, board, a group of people who oversee an organization.
+251, council, a group of people who advise or make decisions.
+252, team, a group of people who work together.
+253, working group, a group of people who collaborate on a task.
+254, task force, a group of people who work on a specific task.
+255, steering committee, a group of people who guide a project.
+256, advisory board, a group of people who provide guidance.
+257, executive committee, a group of people who make high-level decisions.
+258, decision-making body, a group of people who make decisions.
+259, signal processing, a field that studies processing of signals into useful information.
+260, estimation theory, a field that studies estimating unknown parameters.
+261, Cynefin framework, a decision-making framework that emphasizes complexity management.
+262, RACI matrix, a decision-making framework that emphasizes roles and responsibilities.
+263, occam's razor, a decision-making principle that emphasizes simplicity.
+264, pareto principle, a decision-making principle that emphasizes focusing on the most important factors.
+265, pareto optimization, a decision-making process that emphasizes maximizing the most important factors.
+266, pareto efficiency, a decision-making process that emphasizes balancing factors to maximize outcomes.
+267, pareto frontier, a decision-making process that emphasizes finding the best trade-offs.
+268, rawles law, a decision-making principle that emphasizes the importance of preparedness.
+269, murphy's law, a decision-making principle that emphasizes the importance of planning for the worst.
+270, hick's law, a decision-making principle that emphasizes the importance of simplicity.
