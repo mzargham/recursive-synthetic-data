@@ -3,4 +3,3 @@ equivalence_id,name,description
 2,Functional,"Describes the case where two objects perform the same function, allowing substitution in a functional architecture without changing the architecture."
 3,Logical,"Describes the case where two objects provide the same procedure, method, technique, rules, etc., not altering a logical architecture when swapped."
 4,Physical,"Describes the case where two objects are the same in a concrete sense, such that they are interchangeable in a physical architecture."
-"
